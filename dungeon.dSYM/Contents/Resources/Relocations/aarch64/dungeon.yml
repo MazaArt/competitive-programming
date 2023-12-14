@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/admin/Documents/My Files/Code/CPP/dungeon'
+relocations:
+  - { offsetInCU: 0xBE, offset: 0xBE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D0C, symSize: 0x198 }
+  - { offsetInCU: 0xEAB4, offset: 0xEAB4, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x5F4B8, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xF8ED, offset: 0xF8ED, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x1F5, symBinAddr: 0x100003F4D, symSize: 0x0 }
+  - { offsetInCU: 0xF907, offset: 0xF907, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x1F6, symBinAddr: 0x100003F4E, symSize: 0x0 }
+  - { offsetInCU: 0xF921, offset: 0xF921, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x1F7, symBinAddr: 0x100003F4F, symSize: 0x0 }
+  - { offsetInCU: 0xFA4C, offset: 0xFA4C, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIoEE, symObjAddr: 0x1F8, symBinAddr: 0x100003F50, symSize: 0x0 }
+  - { offsetInCU: 0xFAA9, offset: 0xFAA9, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_dungeon.cpp, symObjAddr: 0x1D4, symBinAddr: 0x100003EE0, symSize: 0x14 }
+  - { offsetInCU: 0xFAD2, offset: 0xFAD2, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x198, symBinAddr: 0x100003EA4, symSize: 0x3C }
+  - { offsetInCU: 0xFADA, offset: 0xFADA, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_dungeon.cpp, symObjAddr: 0x1D4, symBinAddr: 0x100003EE0, symSize: 0x14 }
+  - { offsetInCU: 0xFACE, offset: 0xFACE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D0C, symSize: 0x198 }
+  - { offsetInCU: 0xFAD6, offset: 0xFAD6, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x198, symBinAddr: 0x100003EA4, symSize: 0x3C }
+...
